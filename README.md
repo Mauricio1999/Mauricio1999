@@ -1,8 +1,10 @@
+<!--
+
 ## Olá 👋
 
 ![Mauricio1999's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mauricio1999&show_icons=true&theme=transparent)
 
-<!--
+
 **Mauricio1999/Mauricio1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
